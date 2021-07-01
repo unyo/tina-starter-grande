@@ -2,7 +2,7 @@
   "path": "/",
   "blocks": [
     {
-      "title": "hello",
+      "title": "hello world",
       "center": true,
       "underline": true,
       "_template": "TitleBlock",
